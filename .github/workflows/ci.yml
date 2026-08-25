@@ -19,8 +19,5 @@ jobs:
       - name: Build Application
         run: echo "Building Sample Application..."
 
-      - name: Run Tests
-        run: echo "Running Tests..."
-
       - name: Build Successful
         run: echo "Build Completed Successfully"
